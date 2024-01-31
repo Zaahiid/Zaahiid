@@ -2,6 +2,19 @@
 
 ###### This is Zaahid Sheikh a Web developer🌐 from India.
 
+###### Skills
+
+* HTML
+* CSS
+* JavaScript
+* ReactJS
+* NextJS
+* NodeJS
+* ExpressJs
+* MongoDB
+* TailwindCSS
+* ChakraUI
+
 <!--
 **Zaahiid/Zaahiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
