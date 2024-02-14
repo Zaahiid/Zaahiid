@@ -16,8 +16,7 @@
 * ChakraUI
 
   
-![react-logo-svgrepo-com](https://github.com/Zaahiid/Ochi-design-clone/assets/119992167/6ac5a027-0fac-4dd3-821b-4c90e8bb1b05)
-
+![react-logo-svgrepo-com](https://github.com/Zaahiid/Ochi-design-clone/assets/119992167/3cfa4681-06d5-4ffa-ba43-8ac1b9c2bf8c)
 
 <!--
 **Zaahiid/Zaahiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
