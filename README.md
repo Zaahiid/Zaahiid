@@ -9,6 +9,7 @@
 * JavaScript
 * ReactJS
 * NextJS
+* RemixJS
 * NodeJS
 * ExpressJs
 * MongoDB
