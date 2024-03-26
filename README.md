@@ -29,9 +29,7 @@
 - Version Control: Well-versed in Git for version control, enabling collaborative development and code management.
 - Deployment: Familiar with deployment tools like Netlify, and AWS for hosting web applications and ensuring seamless deployment workflows.
 
-#### 🌱 What I'm currently learning:
 
-Technology never stands still, and I'm always excited to learn and adapt to new tools and techniques. Currently, I'm focusing on mastering NextJs, Data Modelling, Application optimization, AI integrated app development.
 
 
 
