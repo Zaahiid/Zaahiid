@@ -8,7 +8,6 @@
 * CSS
 * JavaScript
 * ReactJS
-* NextJS
 * NodeJS
 * ExpressJs
 * MongoDB
