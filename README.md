@@ -21,7 +21,6 @@
 - Backend: Experienced in Node.js and Express.js for developing RESTful APIs and managing server-side logic.
 - Databases: Skilled in MongoDB and Mongoose for designing and implementing database schemas, ensuring data integrity and performance.
 - Version Control: Well-versed in Git for version control, enabling collaborative development and code management.
-- Deployment: Familiar with deployment tools like Netlify, and AWS for hosting web applications and ensuring seamless deployment workflows.
 
 
 
