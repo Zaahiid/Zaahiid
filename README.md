@@ -8,6 +8,7 @@
 * CSS
 * JavaScript
 * ReactJs
+* NodeJs
 * ExpressJs
 
  ![html-5-svgrepo-com](https://github.com/Zaahiid/Ochi-design-clone/assets/119992167/977aca9e-ee2c-4820-88f0-6da7fdba62e5) ![css-3-svgrepo-com](https://github.com/Zaahiid/Ochi-design-clone/assets/119992167/83c68c7a-2060-4c1c-aa49-6e80503f6199) ![javascript-svgrepo-com](https://github.com/Zaahiid/Ochi-design-clone/assets/119992167/d2b4a810-853e-473f-bc96-b4dd86a827ac)
