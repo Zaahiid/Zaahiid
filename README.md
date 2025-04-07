@@ -1,4 +1,4 @@
-ji### Hi there 👋
+### Hi there 👋
 
 #### This is Zaahid Sheikh a Web developer🌐 from India.
 
